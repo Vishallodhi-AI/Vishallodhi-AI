@@ -6,7 +6,7 @@ I am a Data Analyst with a strong interest in turning raw data into meaningful i
 
 ### 📈 My GitHub Streak
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishallodhi-AI)
+![Test](https://github-readme-stats.vercel.app/api?username=Vishallodhi-AI)
 
 
 
